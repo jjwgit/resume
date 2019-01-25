@@ -1,0 +1,130 @@
+---
+header-includes:
+  - \usepackage{kotex}
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "이력서"
+author: xxx
+#orcid: "orcid.org/0000-0002-9577-6885"
+fontawesome: yes
+email: xxx
+github: jjwgit
+phone: "010 xxxx xxxx"
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*xx University*, B.A. xx \hfill 2019
+
+  > * CPA: 3.7 / 4.5
+  
+*xx University*, B.S. xx \hfill 2019
+
+  > * CPA: 4.1 / 4.5
+
+# PROJECT
+
+*학사논문,  데이터 기반 러시아 대북 반응 조사 \hfill 2018년 3월 - 6월 (팀 프로젝트):*
+
+  > * 러시아어 감정 분석을 위한 머신러닝 모델 개발.
+  
+  > * GDELT 프로젝트의 데이터를 활용하기 위한 R API 개발.
+  
+  > * Tableau와 R을 활용한 데이터 시각화.
+
+*데이터마이닝, 은행 정기 예금 구독 마케팅 예측 경쟁 \hfill 2018년 5월 - 6월 (팀 프로젝트):*
+
+  > * 팀 리더로써 전체 프로젝트 진행.
+  
+  > * R과 Java를 활용하여 분류 모델 개발.
+  
+  > * R을 활용한 데이터 시각화.
+
+
+*데이터구조론,  포트폴리오 최적화 \hfill 2017년 11월 - 12월 (팀 프로젝트):*
+
+  > * 팀 리더로써 전체 프로젝트 진행.
+  
+  > * 고차원의데이터를최적화하기위한LP모델개발.
+  
+  > * R을 활용한 데이터 시각화.
+
+
+*응용통계학,  수요 예측 경쟁 \hfill 2017년 11월 - 12월 (팀 프로젝트):*
+
+  > * 팀 리더로써 전체 프로젝트 진행.
+  
+  > * 영화 강철비의 관객수를 예측하기 위해 회귀모델 개발. 
+  
+  > * R을 활용한 데이터 시각화.
+
+
+*Microsoft Professional Program Data Science, Microsoft \hfill 2016년 12월 - 2017년 1월:*
+
+  > * 대출 여부 판독 모델 개발.
+  
+  > * Azure Cloud 서비스와 R을 활용한 분류 모델 개발.
+
+
+
+# EXTRA CURRICULUM
+
+*Coursera, Inc. (MOOC platform)*
+
+Deep Learning Specialization \hfill deeplearning.ai
+
+  > * 인공 신경망에 대한 기본적인 학습부터, 컴퓨터 비전, 자연어 처리, 음성인식과 같은 테크닉에 대하여 학습함.
+
+Data Science Specialization \hfill Johns Hopkins University
+
+  > * 데이터 분석 도구를 사용하는 방법, 분석적 사고에 대해 학습함.
+
+  > * 대규모 데이터 관리, 통계처리, 데이터 시각화, 머신러닝 모델 개발, 보고서 작성법과 같이 데이터 과학에 관련된 전반적인 프로세스에 관해 학습함.
+
+Machine Learning Specialization \hfill University of Washington
+
+  > * 지도학습, 비지도학습을 포함한 머신러닝 알고리즘에 대해 학습함.
+  
+  > * 대규모 데이터 분석, 시계열 데이터 분석, 지능형 어플리케이션 구축에 대해 학습함.
+
+
+# AWARDS & CERTIFICATIONS
+
+## AWARDS
+
+* 2018년 1학기 우수
+
+* 2017년 2학기 우등
+
+* 2017년 1학기 우수
+
+## CERTIFICATIONS
+
+* Microsoft Professional Program Data Science Certificate
+
+# SKILLS
+
+* Sports Management, Data Analysis, Data Mining
+
+* R, Javascript, Java
+
+* Office, Tableau
+
+# LANGAUGE
+
+* TOEIC : 885
+
+* OPIc: IM

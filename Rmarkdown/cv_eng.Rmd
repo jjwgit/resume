@@ -1,0 +1,127 @@
+---
+header-includes:
+  - \usepackage{kotex}
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "cv"
+author: John Doe
+#orcid: "orcid.org/0000-0002-9577-6885"
+fontawesome: yes
+email: abc@gmail.com
+github: jjwgit
+phone: "010 xxxx xxxx"
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*xx University*, B.A. Sports Industry Management \hfill 2019
+
+  > * CPA: 3.7 / 4.5
+  
+*xx University*, B.S. Industrial Engineering \hfill 2019
+
+  > * CPA: 4.1 / 4.5
+
+# PROJECT
+
+*Bachelor’s thesis,  University \hfill March - June 2018 (Co-op):*
+
+  > * Develop Machine Learning model for Russian Sentiment Analysis.
+  
+  > * Develop R language API for extracting GDELT data.
+  
+  > * Develop Microsoft Azure API for R to extract keywords.
+  
+  > * Visualize Sentiments using Tableau and R.
+
+*Data Mining,  University Predict Subscription of a Bank term deposit \hfill May - June 2018 (Co-op):*
+
+  > * Perform the entire project as a team leader.
+  
+  > * Develop Classification model using Java and R languages. • Visualize Results using R.
+  
+*Data Structures,  University Portfolio Optimization \hfill November - December 2017 (Co-op):*
+
+> * Perform the entire project as a team leader.
+
+> * Develop Linear Programming model using Java and R to optimize High Dimensional Data.
+
+> * Visualize LP model using R.
+
+
+*Applied Statistics,  University Demand Forecast Competition \hfill November - December 2017 (Co-op):*
+
+> * Perform the entire project as a team leader.
+
+> * Develop Regression model using R to predict the demand of the movie ”Steel Rain”.
+
+> * Visualize Results using R.
+
+*Microsoft Professional Program Data Science, Microsoft \hfill December - January 2016:*
+
+> * Loan Granting Binary Classification
+
+> * Developed Classification model using R and Azure Cloud Service.
+
+# EXTRA CURRICULUM
+
+*Coursera, Inc. (MOOC platform)*
+
+Deep Learning Specialization \hfill deeplearning.ai
+
+  > * The Deep Learning Specialization is designed to prepare learners to participate in the development of cutting-edge AI technology, and to understand the capability, the challenges, and the consequences of the rise of deep learning. Through five interconnected courses, learners develop a profound knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.).
+  
+Data Science Specialization \hfill Johns Hopkins University
+
+  > * Learn how to use the tools of the trade, think analytically about complex problems, manage large data sets, deploy statistical principles, create visualizations, build and evaluate machine learning algorithms,
+publish reproducible analyses, and develop data products.
+
+
+Machine Learning Specialization \hfill University of Washington
+
+> * Learn Machine Learning including Prediction, Classification, Clustering, and Information Retrieval.
+
+> * Learn how to analyze large and complex datasets, create systems that adapt and improve over time,
+and build intelligent applications that can make predictions from data.
+
+
+# AWARDS & CERTIFICATIONS
+
+## AWARDS
+
+* Highest Honors Semester 2018 Spring, Hanyang University
+
+* Honors Semester 2017 Fall, Hanyang University
+
+* Highest Honors Semester 2017 Spring, Hanyang University
+
+## CERTIFICATIONS
+
+* Microsoft Professional Program Data Science Certificate
+
+# SKILLS
+
+* Sports Management, Data Analysis
+
+* R, Javascript, Java
+
+* Office, Tableau
+
+# LANGAUGE
+
+* TOEIC : 885
+
+* OPIc: IM
